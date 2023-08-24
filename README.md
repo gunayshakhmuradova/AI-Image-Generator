@@ -1,7 +1,7 @@
 # AI Image Generator
 <b>This is a "AI Image Generator" app.</b>
 <br><br>
-<img src="" alt="" width="480" height="240">
+<img src="https://github.com/shzehra93/AI-Image-Generator/assets/126316477/4cf6300f-0c69-49ac-8d50-6b1e9a3239d9" alt="" width="480" height="240">
 
 # Getting Started with Create React App
 
