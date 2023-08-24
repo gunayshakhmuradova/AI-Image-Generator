@@ -1,3 +1,8 @@
+# AI Image Generator
+<b>This is a "AI Image Generator" app.</b>
+<br><br>
+<img src="" alt="" width="480" height="240">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
